@@ -1,0 +1,32 @@
+IMAGES
+
+image 1 - homepage
+https://i.ytimg.com/vi/yrln8nyVBLU/maxresdefault.jpg
+
+image 2 - homepage
+http://www.guardian.co.tt/features/2017-02-15/uk-offers-teens-cybersecurity-classes-to-fight-attacks
+
+image 3 - homepage
+http://sensorstechforum.com/remove-cryptolockereu-2016-virus-restore-send-0-3-btc-crypt-files/
+
+image 4 - passwords comic
+https://www.howtogeek.com/wp-content/uploads/2014/08/xkcd-password-strength.png
+
+image 5 - fake news comic
+https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/comic-riffs/wp-content/uploads/sites/15/2016/12/fakenews-signe.jpg&w=480
+
+image 6
+
+Videos:
+
+animated 1 - comics
+https://www.youtube.com/watch?v=yrln8nyVBLU
+
+safety tips - funny
+https://www.youtube.com/watch?v=Cnc4LaevRBw
+
+importance of passwords
+https://www.youtube.com/watch?v=uXQBaHapfpE
+
+vishing
+https://www.youtube.com/watch?v=lc7scxvKQOo
