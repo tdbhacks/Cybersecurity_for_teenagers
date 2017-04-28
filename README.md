@@ -9,7 +9,7 @@
   providing printable templates of any animal to color in, and providing endlessly-repeatable videos of cute cats, cartoons
   and loom band tutorials. According to a survey conducted by Intel and the Family Online Safety Institute (FOSI), parents
   mainly discuss issues related to cyberbullying and privacy, like identity theft, online reputation and privacy
-  settings (“Most Discussed Topics…”).
+  settings.
   
   Thus, children seem to be prepared from this point of view.
 	The scary part, is that no one is teaching them how to create a strong password or protect against malware.
@@ -17,7 +17,7 @@
   trying to gain advantage of their misjudgment. Spam, some of which includes scam messages, becomes an issue for children
   in several different contexts: through email, texts, and the chat functions of games and online worlds, which are becoming
   extremely popular forms of entertainment among children, as noted by David Riley, executive director of the marketing
-  research company NPD group (“Kids and Gaming”). Kids need to be taught to never reply to spam and to never follow unknown links.
+  research company NPD group. Kids need to be taught to never reply to spam and to never follow unknown links.
   
   
   By introducing them to these kinds of threats, they can learn about them in a safe environment, without having to go through
