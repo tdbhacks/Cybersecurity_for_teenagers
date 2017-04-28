@@ -25,4 +25,5 @@
   of personal information. Also, once they get accustomed to online safety guidelines, protecting themselves against those
   kinds of attacks would be considered just part of their normal digital routines and would prevent them from being the victims
   of some malicious user in the future.
-
+  
+  *Note: Fake News was introduced as part of the Cybersafety basics, since it related to topics discussed in class
